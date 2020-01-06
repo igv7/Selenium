@@ -10,11 +10,11 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 public class WebTableHandling2 {
 	
 	/*
-	1.	Practice Exercise 2
-	2.	Launch new Browser
-	3.	Open URL “http://toolsqa.com/automation-practice-table/”
-	4.	Get the value from cell ‘Dubai’ with using dynamic xpath
-	5.	Print all the column values of row ‘Clock Tower Hotel’
+	Practice Exercise 2
+	1.	Launch new Browser
+	2.	Open URL “http://toolsqa.com/automation-practice-table/”
+	3.	Get the value from cell ‘Dubai’ with using dynamic xpath
+	4.	Print all the column values of row ‘Clock Tower Hotel’
 	*/
 
 	// Solution
