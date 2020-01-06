@@ -6,7 +6,20 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class WebDriverCommands {
-
+	
+	/*
+	Practice Exercise – 1
+	1.	Launch a new Firefox browser.
+	2.	Open Shop.DemoQA.com
+	3.	Get Page Title name and Title length
+	4.	Print Page Title and Title length on the Eclipse Console.
+	5.	Get Page URL and verify if it is a correct page opened
+	6.	Get Page Source (HTML Source code) and Page Source length
+	7.	Print Page Length on Eclipse Console.
+	8.	Close the Browser.
+	*/
+	
+	//Solution
 	public static void main(String[] args) {
 		
 //		System.setProperty("webdriver.gecko.driver", "/Users/Igor/Downloads/geckodriver-v0.26.0-win64/geckodriver.exe");
