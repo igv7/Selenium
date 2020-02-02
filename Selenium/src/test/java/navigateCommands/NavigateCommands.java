@@ -23,8 +23,8 @@ public class NavigateCommands {
 	//Solution
 	public static void main(String[] args) {
 		
-//		System.setProperty("webdriver.gecko.driver", "/Users/Igor/Downloads/geckodriver-v0.26.0-win64/geckodriver.exe");
-		WebDriverManager.firefoxdriver().setup();
+		System.setProperty("webdriver.gecko.driver", "/Users/Igor/Downloads/geckodriver-v0.26.0-win64/geckodriver.exe");
+//		WebDriverManager.firefoxdriver().setup();
 
 // Create a new instance of the FireFox driver
 		WebDriver driver = new FirefoxDriver();
